@@ -10,3 +10,5 @@ git://github.com/tpope/vim-markdown.git
 git://github.com/Lokaltog/vim-powerline.git origin/develop
 git://github.com/tpope/vim-rails.git
 git://github.com/vim-ruby/vim-ruby.git
+git://github.com/nono/vim-handlebars.git
+git://github.com/vim-scripts/ZenCoding.vim.git
