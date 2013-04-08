@@ -12,3 +12,4 @@ git://github.com/tpope/vim-rails.git
 git://github.com/vim-ruby/vim-ruby.git
 git://github.com/nono/vim-handlebars.git
 git://github.com/vim-scripts/ZenCoding.vim.git
+git://github.com/tpope/vim-surround.git
