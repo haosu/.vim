@@ -1,4 +1,5 @@
 git://github.com/kien/ctrlp.vim.git
+git://github.com/tpope/vim-surround.git
 git://github.com/jc00ke/nerdcommenter.git
 git://github.com/ervandew/supertab.git
 git://github.com/Townk/vim-autoclose.git
@@ -13,3 +14,4 @@ git://github.com/vim-ruby/vim-ruby.git
 git://github.com/nono/vim-handlebars.git
 git://github.com/vim-scripts/ZenCoding.vim.git
 git://github.com/tpope/vim-surround.git
+git://github.com/mileszs/ack.vim.git
