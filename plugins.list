@@ -5,7 +5,7 @@ git://github.com/ervandew/supertab.git
 git://github.com/Townk/vim-autoclose.git
 git://github.com/altercation/vim-colors-solarized.git
 git://github.com/tpope/vim-fugitive.git
-git://github.com/airblade/vim-gitgutter.git
+git://github.com/airblade/vim-gitgutter.git ff031d0
 git://github.com/tpope/vim-haml.git
 git://github.com/tpope/vim-markdown.git
 git://github.com/Lokaltog/vim-powerline.git origin/develop
@@ -13,5 +13,6 @@ git://github.com/tpope/vim-rails.git
 git://github.com/vim-ruby/vim-ruby.git
 git://github.com/nono/vim-handlebars.git
 git://github.com/vim-scripts/ZenCoding.vim.git
-git://github.com/tpope/vim-surround.git
 git://github.com/mileszs/ack.vim.git
+git://github.com/mxw/vim-jsx.git
+git://github.com/pangloss/vim-javascript.git

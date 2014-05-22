@@ -8,7 +8,8 @@ set number                    " Show line numbers
 set laststatus=2              " Always show status line
 
 set wildmenu                  " Tab-completion menu for command mode
-set wildignore+=*.o,*.pyc,*/tmp/*,*.swp,*.zip
+set wildignore+=*.o,*.pyc,*/tmp/*,*.swp,*.zip,*/node_modules/*
+set wildignore+=bundle.js,components.js
 set wildmode=list:longest,full
 
 " Vertically center cursor in middle of buffer
